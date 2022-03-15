@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariezry
-- 👀 I’m interested in creative art, new technologies, gaming ! 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on any fun projects 
+- 👀 I’m interested in product management, technologies, startups ! 
+- 🌱 I’m currently learning to draw
+- 💞️ I’m looking to find a job as a product manager
 - 📫 How to reach me : mariezorayan@live.fr
 
 <!---
